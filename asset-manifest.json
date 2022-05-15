@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/debounce-search/static/css/main.62574df2.css",
+    "main.js": "/debounce-search/static/js/main.47adf791.js",
+    "index.html": "/debounce-search/index.html",
+    "main.62574df2.css.map": "/debounce-search/static/css/main.62574df2.css.map",
+    "main.47adf791.js.map": "/debounce-search/static/js/main.47adf791.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62574df2.css",
+    "static/js/main.47adf791.js"
+  ]
+}
